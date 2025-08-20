@@ -66,7 +66,7 @@ jupyter notebook notebooks/rnn-for-stock-price-prediction.ipynb
 ## 📂 Dataset
 This project requires a **historical stock price dataset**.  
 You can use:
-- **Google Stock Price** dataset
+- **Google Stock Price** [https://www.kaggle.com/datasets/rahulsah06/gooogle-stock-price] dataset
 
 ---
 
